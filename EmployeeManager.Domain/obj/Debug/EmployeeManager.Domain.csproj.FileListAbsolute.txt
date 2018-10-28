@@ -1,0 +1,16 @@
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EmployeeManager.Domain.dll.config
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EmployeeManager.Domain.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EmployeeManager.Domain.pdb
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.csprojAssemblyReference.cache
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.csproj.CopyComplete
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.pdb
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EmployeeManager.Shared.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\bin\Debug\EmployeeManager.Shared.pdb
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.Migrations.InitialDatabaseCreation.resources
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Domain\obj\Debug\EmployeeManager.Domain.csproj.GenerateResource.cache

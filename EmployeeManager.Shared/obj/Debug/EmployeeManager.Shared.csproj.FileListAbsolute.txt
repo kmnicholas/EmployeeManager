@@ -1,0 +1,6 @@
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Shared\bin\Debug\EmployeeManager.Shared.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Shared\bin\Debug\EmployeeManager.Shared.pdb
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Shared\obj\Debug\EmployeeManager.Shared.csprojAssemblyReference.cache
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Shared\obj\Debug\EmployeeManager.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Shared\obj\Debug\EmployeeManager.Shared.dll
+C:\Users\Kyle\Source\Repos\EmployeeManager.Web\EmployeeManager.Shared\obj\Debug\EmployeeManager.Shared.pdb

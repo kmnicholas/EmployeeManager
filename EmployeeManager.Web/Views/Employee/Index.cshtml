@@ -1,0 +1,140 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Index</title>
+
+    <!-- Bootstrap -->
+    <link href="~/Content/bootstrap.css" rel="stylesheet">
+    <link href="~/Content/bootstrap-grid.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <h1>Create Employee</h1>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblFirstName">First Name</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtFirstName" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblMiddleName">Middle Name</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtMiddleName" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblLastName">Last Name</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtLastName" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblBirthDate">Birth Date</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="date" class="form-control" id="txtBirthDate" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblHireDate">Hire Date</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="date" class="form-control" id="txtHireDate" />
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblDepartment">Department</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtDepartment" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblJobTitle">Job Title</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtJobTitle" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblSalary">Salary</span>
+                </div>
+                <div class="col-sm-5">
+                    <input type="number" step=".01" class="form-control" id="numSalary" />
+                </div>
+                <div class="col-sm-5">
+                    <div class="radio">
+                        <label><input type="radio" name="salary" checked>Hourly</label>
+                    </div>
+                    <div class="radio">
+                        <label><input type="radio" name="salary">Annual</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblEmployeeId">Employee Id</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtEmployeeId" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <span class="label label-default" id="lblHours">Available Hours</span>
+                </div>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="txtHours" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <button type="button" class="btn btn-primary">Create</button>
+                </div>
+                <div class="col-sm-10">
+                    <button type="button" class="btn">Clear</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
